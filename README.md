@@ -50,4 +50,4 @@ Add your circuit diagram in the `circuit` folder.
 
 ## Author
 
-Your Name
+Shravan Gour
