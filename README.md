@@ -32,7 +32,7 @@ The LDR changes its resistance according to the surrounding light intensity.
 
 ## Circuit Diagram
 
-Add your circuit diagram in the `circuit` folder.
+circuit diagram in the `ckt daigram` folder.
 
 ## Applications
 
